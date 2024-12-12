@@ -1,0 +1,7 @@
+Requisitos:
+  Evoluir mais o projeto, aplicando conceitos de OO e Typescript
+  ☐ Corrigir erro de cadastro do cartão.
+  ☐ Criar um menu de escolha.
+  ☐ Usar enums para definir tipos. @critical
+  ☐ Criar mais funcionalidades e entidades.
+  ☐ Utilizar ferramentas de estilo para CLI @low https://www.npmjs.com/package/terminal-kit 

@@ -1,0 +1,20 @@
+{
+  "name": "financa-form-dev",
+  "module": "app.ts",
+  "type": "module",
+  "scripts": {
+    "postinstall": "chmod +x ./run-app.sh",
+    "start-app": "bun run ./run-app.sh"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "inquirer": "^12.2.0",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
